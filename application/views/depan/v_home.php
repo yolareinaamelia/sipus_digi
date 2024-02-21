@@ -63,8 +63,8 @@
     <div class="container-fluid" data-aos="fade-up">
       <div class="row justify-content-center">
         <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>Bettter Digital Experience With Techie</h1>
-          <h2>We are team of talented designers making websites with Bootstrap</h2>
+          <h1>Bettter Digital Experience With Feri</h1>
+          <h2>We are team of talented designers making websites with Feri</h2>
           <div>
             <a href="#about" class="btn-get-started scrollto">login Anggota</a>
             <a href="#about" class="btn-get-started scrollto">Regristrasi Anggota</a>
@@ -124,7 +124,7 @@
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
               <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Tenggeles Mejobo Kudus</p>
             </div>
           </div>
 
@@ -132,7 +132,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@example.com</p>
+              <p>ferihariyanto398@gmail.com</p>
             </div>
           </div>
 
@@ -140,7 +140,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>089525874582</p>
             </div>
           </div>
 
